@@ -1,1 +1,1 @@
-# A2MR-GNN
+# A^2MR-GNN
