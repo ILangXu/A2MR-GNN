@@ -4,14 +4,16 @@ The A^2MR-GNN defines the prediction of DTBA as a regression task, in which the 
 
 # Get Start
 
-Necessary packages should be installed to run the SS-GNN model. Dependecies:
 
-python >= 3.7
-Pytorch (>=1.6.0),
-numpy,
-scipy,
-scikit-learn.
-Datasets:
-We adopt the PDBbind dataset v2016 for experiments and employ two test sets (the v2016 and v2013 core sets) to test the performance of SS-GNN.
+Necessary packages should be installed to run the A^2MR-GNN model.
+1. Dependecies:
+  
+* python >= 3.7,  
+* Pytorch (>=1.6.0),  
+* numpy,
+* scipy,
+* scikit-learn.  
+2. Datasets:  
+We adopt the PDBbind dataset v2016 for experiments and employ two test sets (the v2016 and v2013 core sets) to test the performance of A^2MR-GNN.
 Train the model:
-Use the train.py script to train the model.
+3. Use the train.py script to train the model.
